@@ -12,4 +12,4 @@ The closest member of the collection is printed to the average.
 #### Output:  ```5```
 
 #### Input:  ``` 32.5 15 100 8 4 5 1 2.5 8.8 55```<br>
-####Output:   ``` 15```
+#### Output:   ``` 15```
